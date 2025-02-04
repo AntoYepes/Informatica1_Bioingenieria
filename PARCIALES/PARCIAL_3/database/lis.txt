@@ -1,0 +1,4 @@
+1036960061|Antonia|Yepes|23|F|12.4|45.3|34.2|34.6|45.3|45.3|No Controlado
+1234567890|43|Juan Andres|Sepulveda Ramos|M|3.7|9.8|5.9|4.1|53.6|26.2|Controlado
+1122334455|31|Angelica Maria|Torres|F|2.9|0.8|5.1||93.6||No Diabetico
+9876543210|23|Marcela|Quiñones Ruiz|F||1.9|7.4|2.3|83.6|10.5|No Controlado
